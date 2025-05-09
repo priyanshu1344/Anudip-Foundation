@@ -1,0 +1,10 @@
+a = int(input("Enter first integer (a): "))
+b = int(input("Enter second integer (b): "))
+
+print("\nBitwise Operations:")
+print(f"a & b (AND)        = {a & b}")
+print(f"a | b (OR)         = {a | b}")
+print(f"a ^ b (XOR)        = {a ^ b}")
+print(f"~a (NOT a)         = {~a}")
+print(f"a << 1 (LEFT SHIFT)= {a << 1}")
+print(f"b >> 1 (RIGHT SHIFT)= {b >> 1}")
