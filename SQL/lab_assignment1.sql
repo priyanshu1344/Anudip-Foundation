@@ -6,7 +6,7 @@ VALUES (101, 'Priyanshu Suryawanshi', 45000),
        (104, 'Rohit Mehta', 32000);
 
 
--- Task 2: Retrieve all account_holder_name and account_balance from BankAccount
+-- Task 2: Retrieve all account_holder_name and account_balance from BankAccount  
 SELECT account_holder_name, account_balance
 FROM BankAccount;
 
@@ -28,3 +28,4 @@ WHERE account_id = 101;
 SELECT *
 FROM Student
 ORDER BY last_name ASC;
+
