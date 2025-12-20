@@ -1,4 +1,4 @@
-x = float(input("Enter a number: "))
+x = float(input("Enter a number: "))  
 print("Initial value of x:", x)
 
 x += 5
@@ -21,3 +21,4 @@ print("After x **= 2:", x)
 
 x //= 2
 print("After x //= 2:", x)
+
