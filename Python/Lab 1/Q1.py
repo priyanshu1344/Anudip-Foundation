@@ -1,4 +1,4 @@
-#Q1
+#Q1 
 num1 = float(input("Enter number 1: "))
 num2 = float(input("Enter number 2: "))
 
