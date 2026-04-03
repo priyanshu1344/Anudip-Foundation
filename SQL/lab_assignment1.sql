@@ -26,6 +26,6 @@ WHERE account_id = 101;
 -- Task 5: Retrieve student info ordered by last_name in ascending order
 -- (Assuming table `Student` has column `last_name`)
 SELECT *
-FROM Student
+FROM Student 
 ORDER BY last_name ASC;
 
